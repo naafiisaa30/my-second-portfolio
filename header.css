@@ -1,0 +1,117 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 60px ;
+    padding: 10px 10px;
+}
+.button-1 button{
+    width: fit-content;
+    padding: 10px 10px;
+    margin-top: 13px;
+    background-color: orange;
+    font-size: 20px;
+}
+.banner-description-2{
+    display: flex;
+    gap: 20px;
+    align-items:center;
+}
+.logo-2{
+    height: 25px;
+    width: 25px;
+    
+}
+.D{
+    font-size: 24px;
+    text-transform: uppercase;
+
+}
+.arrow-icon{
+    width: 25px;
+    height: 25px;
+
+}
+.portfolio{
+    display: flex;
+    gap: 10px;
+    background-color: orange;
+    width: fit-content;
+    height: 30px;
+    border-radius: 30px;
+    padding: 0px 15px;
+    align-items: center;
+}
+.banner-description-3{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background-color: rgb(81, 79, 79);
+    border: 1px solid white;
+    width: fit-content;
+    padding: 0px 10px;
+    height: 50px;
+    border-radius: 45px;
+}
+.banner-container{
+    margin: 100px 250px;
+    display: flex;
+    flex-direction: column;
+}
+.banner-title{
+    font-size: 40px;
+}
+.banner-title h1 span{
+    color: rgb(232, 85, 6);
+    font-style: italic;
+}
+.profile-image img{
+    width: 550px;
+    padding: 10px 60px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+.rotating-board{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(58, 50, 50);
+    padding: 15px 15px;
+    transform: rotate(-7deg);
+    margin: -25px -25px;
+
+}
+.about-me{
+    display: flex;
+    justify-content: space-between;
+    margin: 180px 120px;
+}
+.experience{
+    background: linear-gradient(270.16deg, rgba(238, 164, 61, 0.174) 5.74%, rgba(255, 108, 99, 0.1) 50.64%, rgba(184, 106, 223, 0.1) 92.05%);
+
+}
+.my-experience{
+    display: flex;
+    padding:30px;
+}
+.name-year{
+display: flex;
+justify-content: space-between;
+}
+.my-experience-1{
+    width: 50%;
+    padding: 50px;
+}
+.my-experience-2{
+    width: 50%;
+    padding: 50px;
+}
+.experience-right-1{
+    border-bottom: 1px solid white;
+}
